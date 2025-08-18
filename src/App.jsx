@@ -95,10 +95,12 @@ const App = () => {
         </a>
         <div className="p-5 bg-white/80 dark:bg-gray-800/30 backdrop-blur-sm text-center">
           <a href="#">
-            <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">শারদীয় শুভেচ্ছা</h5>
+            <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+              শারদীয় শুভেচ্ছা
+            </h5>
           </a>
           <div className="flex flex-col items-center">
-            <CountdownTimer targetDate="2024-10-10T00:00:00" />
+            <CountdownTimer targetDate="2025-09-28T00:00:00" />
           </div>
         </div>
       </div>
